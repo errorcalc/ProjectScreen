@@ -2,7 +2,7 @@
 ## **[ENG]**  
 ![Screenshot](Screenshot_en.png)
 
-This program built in **Delphi 10.2 Berlin**
+This program built in **Delphi 10**
 
 This is a program for easy make screenshots in **one click**.
 
@@ -31,7 +31,7 @@ errorsoft@mail.ru
 ## **[RUS]**  
 ![Screenshot](Screenshot_ru.png)
 
-Данная программа написана в **Delphi 10.2 Berlin**
+Данная программа написана в **Delphi 10**
 
 Программа для снятия скриншотов в **один клик**.
 

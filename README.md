@@ -2,9 +2,11 @@
 ## **[ENG]**  
 ![Screenshot](Screenshot_en.png)
 
+### [Download](ProjectScreen.zip) 
+
 This program built in **Delphi 10**
 
-This is a program for easy make screenshots in **one click**.
+This is a free program for easy make screenshots in **one click**.
 
 **Try it program and you will use it constantly!**
 
@@ -31,9 +33,11 @@ errorsoft@mail.ru
 ## **[RUS]**  
 ![Screenshot](Screenshot_ru.png)
 
+### [Скачать](ProjectScreen.zip)
+
 Данная программа написана в **Delphi 10**
 
-Программа для снятия скриншотов в **один клик**.
+Бесплатная программа для снятия скриншотов в **один клик**.
 
 **Попробуйте данную программу, и вы станите использовать ее постоянно!**
 

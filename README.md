@@ -2,7 +2,7 @@
 ## **[ENG]**  
 ![Screenshot](Screenshot_en.png)
 
-### [Download](https://raw.githubusercontent.com/errorcalc/ProjectScreen/master/Release/ProjectScreen.zip) 
+### [Download](https://raw.githubusercontent.com/errorcalc/ProjectScreen/master/ProjectScreen.zip) 
 
 This program built in **Delphi 10**
 
@@ -33,7 +33,7 @@ errorsoft@mail.ru
 ## **[RUS]**  
 ![Screenshot](Screenshot_ru.png)
 
-### [Скачать](https://raw.githubusercontent.com/errorcalc/ProjectScreen/master/Release/ProjectScreen.zip)
+### [Скачать](https://raw.githubusercontent.com/errorcalc/ProjectScreen/master/ProjectScreen.zip)
 
 Данная программа написана в **Delphi 10**
 

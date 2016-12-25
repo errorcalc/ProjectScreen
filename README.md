@@ -1,6 +1,8 @@
 # ProjectScreen
-**[ENG]**  
+## **[ENG]**  
 ![Screenshot](Screenshot_en.png)
+
+This program built in **Delphi 10.2 Berlin**
 
 This is a program for easy make screenshots in **one click**.
 
@@ -26,8 +28,10 @@ Comments and bug reports write here:
 errorsoft@mail.ru
 
 # ProjectScreen
-**[RUS]**  
+## **[RUS]**  
 ![Screenshot](Screenshot_ru.png)
+
+Данная программа написана в **Delphi 10.2 Berlin**
 
 Программа для снятия скриншотов в **один клик**.
 

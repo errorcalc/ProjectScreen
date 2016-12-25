@@ -12,6 +12,7 @@ This is a free program for easy make screenshots in **one click**.
 
 Select using **Right** mouse button to popup the additional menu!(on screenshot)  
 Use cursor keys to change the start position.  
+By default screenshots are saved to **My Documents/ScreenShots/**.  
 In **Config.ini** (in the directory with the program), you can change the settings.  
 
 ![Pin to taskbar](PinToTaskbar_en.png)
@@ -42,6 +43,7 @@ errorsoft@mail.ru
 **Попробуйте данную программу, и вы станите использовать ее постоянно!**
 
 Выделяйте **правой** кнопокой, для вызова меню дополнительных вохможностей!(на скриншоте)  
+По умолчанию скриншоты сохраняются в **Мои документы/ScreenShots/**.  
 Используйте курсорные клавиши, для изменения начальной позиции.  
 В **Config.ini** (в директории с программой), вы можете изменить настройки.  
 
